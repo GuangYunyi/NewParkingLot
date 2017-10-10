@@ -1,0 +1,3 @@
+Lisence:M17 Types:sedan Status:E Entering Time:1507597237364
+Lisence:F13 Types:coach Status:E Entering Time:1507597325972
+Lisence:F13 Types:coach Status:L Leaving Time:1507597334619
